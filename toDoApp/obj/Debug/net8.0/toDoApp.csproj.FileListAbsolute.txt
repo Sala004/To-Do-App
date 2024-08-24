@@ -1,0 +1,14 @@
+C:\Users\ma906\source\repos\toDoApp\toDoApp\bin\Debug\net8.0\toDoApp.exe
+C:\Users\ma906\source\repos\toDoApp\toDoApp\bin\Debug\net8.0\toDoApp.deps.json
+C:\Users\ma906\source\repos\toDoApp\toDoApp\bin\Debug\net8.0\toDoApp.runtimeconfig.json
+C:\Users\ma906\source\repos\toDoApp\toDoApp\bin\Debug\net8.0\toDoApp.dll
+C:\Users\ma906\source\repos\toDoApp\toDoApp\bin\Debug\net8.0\toDoApp.pdb
+C:\Users\ma906\source\repos\toDoApp\toDoApp\obj\Debug\net8.0\toDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma906\source\repos\toDoApp\toDoApp\obj\Debug\net8.0\toDoApp.AssemblyInfoInputs.cache
+C:\Users\ma906\source\repos\toDoApp\toDoApp\obj\Debug\net8.0\toDoApp.AssemblyInfo.cs
+C:\Users\ma906\source\repos\toDoApp\toDoApp\obj\Debug\net8.0\toDoApp.csproj.CoreCompileInputs.cache
+C:\Users\ma906\source\repos\toDoApp\toDoApp\obj\Debug\net8.0\toDoApp.dll
+C:\Users\ma906\source\repos\toDoApp\toDoApp\obj\Debug\net8.0\refint\toDoApp.dll
+C:\Users\ma906\source\repos\toDoApp\toDoApp\obj\Debug\net8.0\toDoApp.pdb
+C:\Users\ma906\source\repos\toDoApp\toDoApp\obj\Debug\net8.0\toDoApp.genruntimeconfig.cache
+C:\Users\ma906\source\repos\toDoApp\toDoApp\obj\Debug\net8.0\ref\toDoApp.dll
